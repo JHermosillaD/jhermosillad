@@ -1,4 +1,4 @@
-### Hola! I'm Jesus Hermosilla 👋  [<img align="right" width="30" src="https://github.com/JHermosillaD/jhermosillad.github.io/blob/main/static/logo.png?raw=true">](https://jhermosillad.github.io/)
+### Hola! I'm Jesus Hermosilla 👋
   
 <hr>
 
@@ -9,6 +9,7 @@
 - 🧠 I'm currently improving my skills in writing ROS packages and computer vision algorithms.
 - 📫 How to reach me: **<a href="mailto:jesus.hermosilla@ieee.org" >IEEE</a>**, **<a href="mailto:hermosilladiaz@gmail.com" style="color: black" >Gmail</a>**, **<a href="mailto:zs21000457@estudiantes.uv.mx" >UV</a>**, **<a href="https://www.linkedin.com/in/jesus-hermosilla/" >LinkedIn</a>**
 
+<br>
 <br>
 
 <table>
@@ -55,9 +56,16 @@
   </td>
   <td align="right"> 
     
+<br>
+
   ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
   
   </td>
   </tr>
   </tbody>
 </table>
+<p align="center">
+  <a href="https://jhermosillad.github.io/">
+    <img width="30" src="https://github.com/JHermosillaD/jhermosillad.github.io/blob/main/static/logo.png?raw=true" alt="jhermosillad.github.io/">
+  </a>
+</p>
