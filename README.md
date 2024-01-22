@@ -21,7 +21,7 @@
 <br>
 <!-- Vercel badges --->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhermosillad&layout=donut&theme=default&size_weight=0&count_weight=1" />
+  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhermosillad&layout=donut&theme=transparent&size_weight=0&count_weight=1" />
 </a>
 <a href="https://git.io/streak-stats">
   <img width=480 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=jhermosillad&theme=transparent" />
