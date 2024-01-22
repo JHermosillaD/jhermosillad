@@ -4,7 +4,7 @@
 <p float="left">
   <img align="left" width="300" src="img/octocat.png">
   <div>
-  <br> <br>
+  <br> <br> <br>
   📍 I'm a physicist pursuing a PhD in artificial intelligence. <br> <br>
   🌟 I'm interested in robotics, data science and any challenge! <br> <br>
   🧠 I'm currently developing ROS robitcs packages. <br> <br> <br>
