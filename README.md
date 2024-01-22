@@ -1,6 +1,14 @@
-### Hola! I'm Jesus Hermosilla 👋
-  
-<hr>
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hola!%20I'm%20Jesus%20Hermosilla%20👋&width=800&height=150)](https://github.com/Akshay090/svg-banners)
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhermosillad&layout=donut&theme=dark&size_weight=0&count_weight=1" />
+</a>
+<a href="https://git.io/streak-stats">
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=jhermosillad&theme=dark" />
+</a>
+
+<br>
 
 <img align="right" width="150" src="img/profile.png">
 
