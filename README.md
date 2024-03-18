@@ -8,7 +8,7 @@
   📍 I'm a physicist pursuing a PhD in artificial intelligence. <br> <br>
   🌟 I'm interested in robotics, data science and any challenge! <br> <br>
   🧠 I'm currently developing ROS robitcs packages. <br> <br> <br>
-    <a href="https://jhermosillad.github.io/"><img align="left" src="https://github.com/JHermosillaD/jhermosillad.github.io/blob/main/static/logo.png?raw=true" width="32"/>
+    <a href="https://jhermosillad.github.io/"><img align="left" src="https://icon.icepanel.io/Technology/png-shadow-512/Astro.png" width="32"/>
     </a>
     <a href="mailto:hermosilladiaz@gmail.com"><img align="left" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/icons/gmail/gmail.svg" width="38"/>
     </a>
