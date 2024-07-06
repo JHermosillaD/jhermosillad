@@ -10,9 +10,9 @@
   🧠 I'm currently developing ROS robitcs packages. <br> <br> <br> 
     <a href="https://jesushermosilla.me/"><img align="left" src="https://icon.icepanel.io/Technology/png-shadow-512/Astro.png" width="32"/>
     </a>
-    <a href="mailto:hermosilladiaz@gmail.com"><img align="left" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/icons/gmail/gmail.svg" width="38"/>
+    <a href="mailto:hermosilladiaz@gmail.com"><img align="left" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/logos/gmail/gmail.svg" width="38"/>
     </a>
-    <a href="https://www.linkedin.com/in/jesus-hermosilla/"><img align="left" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/icons/linkedin/linkedin.svg" width="38"/>
+    <a href="https://www.linkedin.com/in/jesus-hermosilla/"><img align="left" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/logos/linkedin/linkedin.svg" width="38"/>
     </a>
     </div>
 </p>
