@@ -5,7 +5,7 @@
   <img align="left" width="300" src="img/octocat.png">
   <div>
   <br> <br> <br>
-  📍 I'm a physicist pursuing a PhD in artificial intelligence. <br> <br>
+  📍 I'm a physicist pursuing a PhD in artificial intelligence <br> <br>
   🌟 I'm interested in robotics, data science and any challenge! <br> <br>
   🧠 I'm currently developing ROS robitcs packages. <br> <br> <br> 
     <a href="https://jesushermosilla.me/"><img align="left" src="https://icon.icepanel.io/Technology/png-shadow-512/Astro.png" width="32"/>
