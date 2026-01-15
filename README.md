@@ -17,10 +17,3 @@
     <img src="https://komarev.com/ghpvc/?username=jhermosillad&label=Profile%20Views&color=090a0a&style=for-the-badge&label=Views" alt="jhermosillad" />
   </div>
 </p>
-
-<br clear="left"/>
-<br>
-<!-- Vercel badges --->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhermosillad&layout=donut&theme=transparent&hide=jupyter%20notebook&size_weight=0&count_weight=1" />
-</a>
